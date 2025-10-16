@@ -3,6 +3,7 @@
 <title>Exemple 2</title>
   <title>Exemple 3</title>
   <title>Exemple 4</title>
+  <label for="">je suis </label>
 </head>
 <body>
 <?php
