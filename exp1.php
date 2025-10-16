@@ -1,6 +1,7 @@
 <html>
 <head>
 <title>Exemple 2</title>
+  <title>Exemple 3</title>
 </head>
 <body>
 <?php
